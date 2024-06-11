@@ -1,0 +1,4 @@
+ftfy==6.1.1
+regex
+timm==0.3.2
+yapf==0.40.1
