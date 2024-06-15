@@ -2,7 +2,7 @@
 
 Authors: Yunheng Li, Zhong-Yu Li, Quansheng Zeng, Qibin Hou*, Ming-Ming Cheng.
 
-[[paper](https://arxiv.org/abs/2406.00670)] [[github](https://github.com/HVision-NKU/Cascade-CLIP)] [[pretrained models](https://github.com/HVision-NKU/Cascade-CLIP/tree/main#pretrained-models)] [[Param. \& Flops \& FPS](https://github.com/HVision-NKU/Cascade-CLIP/tree/main#Efficiency)]  [[visualization](https://github.com/HVision-NKU/Cascade-CLIP/main/figs/visualization.png)]
+[[paper](https://arxiv.org/abs/2406.00670)] [[github](https://github.com/HVision-NKU/Cascade-CLIP)] [[pretrained models](https://github.com/HVision-NKU/Cascade-CLIP/tree/main#pretrained-models)] [[Param. \& Flops \& FPS](https://github.com/HVision-NKU/Cascade-CLIP/tree/main#Efficiency)]  [[visualization](https://github.com/HVision-NKU/Cascade-CLIP/blob/main/figs/visualization.png)]
 
 ---
 
@@ -56,10 +56,10 @@ All experiments using a machine with 4 NVIDIA RTX 3090 GPUs.
 | :-------------: | :---------: | :-----: | :--: |:--: |   :----------------------------------------------------: |
 | PASCAL VOC 2012 |  Inductive   |   92.5 ($\pm$ 1.0)  |   83.0 ($\pm$ 1.0) | ~3|[[BaiduNetdisk](https://pan.baidu.com/s/1HZyN-Q0PFLJyaofOJ6ePqw?pwd=ji3u)] |
 | PASCAL VOC 2012 | Transductive |   93.6 ($\pm$ 0.5)  |   93.2 ($\pm$ 0.5) | ~1.5|[[BaiduNetdisk](https://pan.baidu.com/s/1igggSXPOF0PXEGmxsH7NQw?pwd=45qa)] |
-| PASCAL Context  | Inductive    |   55.9 ($\pm$ 0.5)  |   47.2 ($\pm$ 1.0) | ~8|[[BaiduNetdisk](https://pan.baidu.com/s/1iUTHAwDl4DROEzMQCy56Ug?pwd=yeb5)] |
-| PASCAL Context  | Transductive |   56.4 ($\pm$ 0.5)  |   55.0 ($\pm$ 1.0) | ~4|[[BaiduNetdisk](https://pan.baidu.com/s/17C9a7M1SUDxcL-ufX3PY4g?pwd=wtkp)] |
-| COCO Stuff 164K |  Inductive   |   41.2 ($\pm$ 0.5)  |   43.4 ($\pm$ 1.0) | ~20|[[BaiduNetdisk](https://pan.baidu.com/s/1nuSO-Gjf3j9HaJA2eRpWlg?pwd=tvgb)] |
-| COCO Stuff 164K | Transductive |   41.7 ($\pm$ 0.5)  |   62.5 ($\pm$ 1.0) | ~10|[[BaiduNetdisk](https://pan.baidu.com/s/1qyCfObgTnrVwgp-i-NYUxw?pwd=kbg4)] |
+| PASCAL Context  | Inductive    |   55.9 ($\pm$ 0.5)  |   47.2 ($\pm$ 1.0) | ~8|[[BaiduNetdisk](https://pan.baidu.com/s/1RjiAy3tLqvkAAOxwrj_LZw?pwd=5gvr)] |
+| PASCAL Context  | Transductive |   56.4 ($\pm$ 0.5)  |   55.0 ($\pm$ 1.0) | ~4|[[BaiduNetdisk](https://pan.baidu.com/s/19HA5BQ0zMGttTTAEG0yjew?pwd=r9ks)] |
+| COCO Stuff 164K |  Inductive   |   41.2 ($\pm$ 0.5)  |   43.4 ($\pm$ 1.0) | ~20|[[BaiduNetdisk](https://pan.baidu.com/s/1OwBKOKr0-GkTmmv_K6OLqw?pwd=9mkw)] |
+| COCO Stuff 164K | Transductive |   41.7 ($\pm$ 0.5)  |   62.5 ($\pm$ 1.0) | ~10|[[BaiduNetdisk](https://pan.baidu.com/s/1vRYOU1o5ejCr3chBphlYxQ?pwd=rbbv)] |
 
 Note that here we report the averaged results of several training models and provide one of them.
 
