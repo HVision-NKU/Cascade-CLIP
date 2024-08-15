@@ -121,11 +121,11 @@ python test.py configs/coco_171/vpt_seg_zero_vit-b_512x512_40k_12_100_multi_st.p
 ## Citation:
 If you find this project useful, please consider citing:
 ```bibtex
-@article{li2024cascadeclip,
-      title={Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation}, 
-      author={Yunheng Li and ZhongYu Li and Quansheng Zeng and Qibin Hou and Ming-Ming Cheng},
-      journal={arXiv preprint arXiv:2406.00670},
-      year={2024}
+@inproceedings{licascade,
+  title={Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation},
+  author={Li, Yunheng and Li, Zhong-Yu and Zeng, Quan-Sheng and Hou, Qibin and Cheng, Ming-Ming},
+  booktitle={International Conference on Machine Learning},
+  year={2024}
 }
 ```
 
